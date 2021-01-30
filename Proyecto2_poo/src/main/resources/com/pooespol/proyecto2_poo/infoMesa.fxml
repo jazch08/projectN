@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane fx:id="pnVentEmer" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pooespol.proyecto2_poo.InfoMesaController">
+   <center>
+      <VBox fx:id="cajaInfo" alignment="CENTER" prefHeight="200.0" prefWidth="100.0" spacing="20.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="lblMesa" text="Mesa nro.:     " />
+            <Label fx:id="lblCapacidad" alignment="CENTER" text="Capacidad:    " />
+            <Label fx:id="lblMesero" text="Mesero:    " />
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

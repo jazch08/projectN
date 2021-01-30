@@ -1,0 +1,22 @@
+softdrinks;Coca-cola;1.50;coca.jpeg
+softdrinks;Pepsi;1.25;pepsi.jpeg
+softdrinks;Crush;0.90;crush.jpeg
+hotdrinks;Expresso;3.66;expresso.jpeg
+hotdrinks;Capuccino;3.66;capuccino.jpeg
+hotdrinks;Green tea;2.50;gtea.jpeg
+hotdrinks;Irish coffee;4.25;icoffee.jpeg
+hotdrinks;Mocaccino;4.00;moca.jpeg
+milkshakes;Milkshakes Cherry;2.81;mcherry.jpeg
+milkshakes;Milkshakes Banana;2.81;mbanana.jpeg
+milkshakes;Milkshakes Chocolate;3.81;mchocolate.jpeg
+milkshakes;Milkshakes Oreo;4.81;moreo.jpeg
+milkshakes;Milkshakes Vanilla;3.81;mvanila.jpeg
+milkshakes;Milkshakes Fresas;2.81;mfresa.jpeg
+beers;Corona;3.00;corona.jpeg
+beers;Pilsener;2.50;pilsener.jpeg
+beers;Club;2.50;club.jpeg
+wine;Jacob's creek;11.50;Jcreek.jpeg
+Cocktails;Pina colada;5.84;Pcolada.jpeg
+Cocktails;Caipirinha;5.84;caipi.jpeg
+Cocktails;Cosmopolitan;5.84;cosmopolitan.jpeg
+Cocktails;Margarita;5.84;maragrita.jpeg

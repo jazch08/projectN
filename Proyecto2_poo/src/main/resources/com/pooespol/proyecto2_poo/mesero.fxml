@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1000.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pooespol.proyecto2_poo.MeseroController">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="83.0" prefWidth="64.0" text="Mesero:" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelMesero" />
+      <Label />
+      <Pane fx:id="paneMesas" prefHeight="709.0" prefWidth="1000.0" style="-fx-background-color: grey;">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="433.0" layoutX="889.0" layoutY="109.0" stroke="BLACK" strokeType="INSIDE" width="30.0" />
+            <Label layoutX="930.0" layoutY="292.0" style="-fx-rotate: 270;" text="Cocina" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</VBox>
